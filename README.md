@@ -9,3 +9,7 @@
   &nbsp;·&nbsp;
   <a href="https://weather.ezclickgo.com/">EZ Click Weather</a>
 </p>
+
+<p align="center">
+  <sub>Developed by <strong>IVS Software</strong></sub>
+</p>
