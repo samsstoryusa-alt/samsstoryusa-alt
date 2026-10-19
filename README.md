@@ -13,3 +13,15 @@
 <p align="center">
   <sub>Developed by <strong>IVS Software</strong></sub>
 </p>
+
+## About EZCLICK GO
+
+Tools for truck drivers and dispatchers — from load planning to weather along the route.
+
+| GO App | EZ Click Weather |
+| --- | --- |
+| **Loadboard · Dispatch · My Trip** | **Route planning · Weather** |
+| Load planning, dispatch workflows and trip details. | Explore weather conditions along a planned route. |
+| **In development** | [**Open the web preview →**](https://weather.ezclickgo.com/) |
+
+Learn more about the project at [ezclickgo.com](https://ezclickgo.com/).
